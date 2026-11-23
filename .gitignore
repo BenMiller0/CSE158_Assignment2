@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+/data/
+/workbook.html
+/video_url.txt
+/responses.txt
