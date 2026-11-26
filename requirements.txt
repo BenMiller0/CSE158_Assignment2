@@ -1,0 +1,8 @@
+# CSE 158 Assignment 2 — workbook.ipynb dependencies
+# Install into a Python 3.11 venv:  python -m pip install -r requirements.txt
+numpy==2.4.6
+pandas==3.1.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+scipy==1.17.1
+jupyter==1.1.1
